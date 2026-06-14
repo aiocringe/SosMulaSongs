@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": {
+      "text": "Sos Mula ✦ Disc Pack [WSS]\n",
+      "color": "red",
+      "extra": [
+        {
+          "text": "Author - hellreign.t.me",
+          "color": "gray"
+        }
+      ]
+    },
+    "pack_format": 86,
+    "min_format": [1, 1],
+    "max_format": [666, 666],
+    "supported_formats": [1, 666]
+  }
+}
